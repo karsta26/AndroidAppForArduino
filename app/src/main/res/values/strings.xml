@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Arduino project</string>
+    <string name="connection_status">Connection status:</string>
+    <string name="sensor">Send data from sensor:</string>
+    <string name="led">LED</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="light_sensor">Light sensor</string>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="gyroscope">Gyroscope</string>
+    <string name="magnetometer">Magnetometer</string>
+    <string name="connect">Connect</string>
+    <string name="img">img</string>
+</resources>
